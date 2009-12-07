@@ -1,15 +1,5 @@
-# incanter-util
+# Incanter Utilities
 
-FIXME: write description
+Utilities for working with Incanter, and for integrating it with other utility
+code in the com.dthume namespace, currently only com.dthume.util.set.
 
-## Usage
-
-FIXME: write
-
-## Installation
-
-FIXME: write
-
-## License
-
-FIXME: write

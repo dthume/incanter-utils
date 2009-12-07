@@ -1,7 +1,7 @@
 (ns
     com.dthume.incanter-utils
   (:require [incanter.core :as incant]
-            [com.dthume.util.xrels :as xr]))
+            [com.dthume.util.set :as xr]))
 
 (defn xrel->dataset
   "Transform xrel to an incanter dataset"
